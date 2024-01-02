@@ -27,41 +27,6 @@ int main() {
     return 0;
 }
 ```
-## [2. Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem?isFullScreen=true)
-```cpp
-#include <cmath>
-#include <cstdio>
-#include <vector>
-#include <iostream>
-#include <algorithm>
-using namespace std;
-
-
-int main() {
-    int m, n, o;
-    cin >> m >> n >> o;
-    int r = m+ n+ o;
-    cout<< r <<endl;
-    return 0;
-}
-## [2. Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem?isFullScreen=true)
-```cpp
-#include <cmath>
-#include <cstdio>
-#include <vector>
-#include <iostream>
-#include <algorithm>
-using namespace std;
-
-
-int main() {
-    int m, n, o;
-    cin >> m >> n >> o;
-    int r = m+ n+ o;
-    cout<< r <<endl;
-    return 0;
-}
-```
 ## [3. Basic Data Types](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem?isFullScreen=true)
 ```cpp
 #include <iostream>
